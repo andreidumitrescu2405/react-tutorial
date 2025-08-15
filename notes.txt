@@ -1,0 +1,7 @@
+bootstrap and tailwind
+the holy trinity: react, tailwind, vite
+v0
+blend
+free wallpaper generator
+
+from js to typescript: npm install --save typescript @types/node @types/react @types/react-dom @types/jest
